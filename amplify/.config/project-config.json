@@ -1,0 +1,17 @@
+{
+    "projectName": "re-frame-amplify-exp",
+    "version": "2.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src/cljs",
+            "DistributionDir": "build",
+            "BuildCommand": "lein dev",
+            "StartCommand": "lein dev"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
