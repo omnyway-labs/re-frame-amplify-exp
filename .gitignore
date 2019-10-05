@@ -2,6 +2,7 @@
 /target
 /*-init.clj
 /resources/public/js/compiled
+/resources/public/css/screen.css
 out
 .shadow-cljs
 node_modules
@@ -15,5 +16,6 @@ amplify/backend/awscloudformation
 build/
 dist/
 node_modules/
+node_modules-*/
 aws-exports.js
 awsconfiguration.json
