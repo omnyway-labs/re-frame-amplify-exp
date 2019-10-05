@@ -1,6 +1,14 @@
 # re-frame-amplify-exp
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A [re-frame](https://github.com/Day8/re-frame) application designed to show how to integrate generic AWS Amplify with a focus on Cognito.
+
+The starting point was using this leinigin scaffold:
+
+```
+lein new re-frame re-frame-amplify-exp +10x +cider +test +breaking-point +garden
+```
+
+
 
 ## Development Mode
 
